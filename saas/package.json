@@ -160,6 +160,7 @@
     "moment": "2.29.1"
   },
   "devDependencies": {
-    "babel-plugin-prismjs": "^2.1.0"
+    "babel-plugin-prismjs": "^2.1.0",
+    "dep": "^0.18.3"
   }
 }
