@@ -11,7 +11,7 @@
     "@fullcalendar/interaction": "^5.11.0",
     "@fullcalendar/list": "^5.11.0",
     "@fullcalendar/react": "^5.11.1",
-    "@lourenci/react-kanban": "^2.1.0",
+    
     "@simonwep/pickr": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
