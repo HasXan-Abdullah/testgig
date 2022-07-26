@@ -2,10 +2,7 @@
   "name": "saas-velzon-react",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "16.15.0",
-    "npm" :"8.5.5"
-  },
+  
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^32.0.0",
     "@ckeditor/ckeditor5-react": "^4.0.0",
@@ -50,7 +47,7 @@
     "nouislider-react": "^3.4.1",
     "prismjs": "^1.26.0",
     "quill": "^1.3.7",
-    "react": "^18.2.0",
+    "react": "15.3.0",
     "react-apexcharts": "^1.3.9",
     "react-chartjs-2": "^2.11.1",
     "react-color": "^2.19.3",
