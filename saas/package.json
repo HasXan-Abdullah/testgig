@@ -2,6 +2,10 @@
   "name": "saas-velzon-react",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.15.0",
+    "npm" :"8.5.5"
+  },
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^32.0.0",
     "@ckeditor/ckeditor5-react": "^4.0.0",
