@@ -1,7 +1,7 @@
 {
   "name": "saas-velzon-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@asseinfo/react-kanban": "^2.2.0",
    
